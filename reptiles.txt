@@ -1,2 +1,3 @@
 I used to really like reptiles as a child.
-My best friend in grade school had a large iguana and I used to like to catch snakes. I had several I kept as pets.  
+My best friend in grade school had a large iguana and I used to like to catch snakes. I had several I kept as pets.
+Experimenting with git diff <filename> here!  
